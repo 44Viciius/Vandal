@@ -18,10 +18,10 @@ Opciones
 * User-Agent personalizado: Puedes especificar un User-Agent para tus solicitudes HTTP.
 * Retraso entre escaneos: Elige un retraso recomendado entre los escaneos para minimizar la posibilidad de ser bloqueado.
 
-Escaneo de Puertos: 
-Identifica puertos abiertos en el dominio objetivo utilizando Nmap, lo que puede revelar servicios expuestos.
-Comprobación de Encabezados de Seguridad: 
-Verifica la presencia de encabezados de seguridad esenciales, tales como:
+* Escaneo de Puertos: 
+  Identifica puertos abiertos en el dominio objetivo utilizando Nmap, lo que puede revelar servicios expuestos.
+*Comprobación de Encabezados de Seguridad: 
+  Verifica la presencia de encabezados de seguridad esenciales, tales como:
 * X-Frame-Options
 * Content-Security-Policy
 * X-XSS-Protection

@@ -27,29 +27,29 @@ Verifica la presencia de encabezados de seguridad esenciales, tales como:
 * X-XSS-Protection
 * Strict-Transport-Security
  
-Detección de Inyección SQL:
+* Detección de Inyección SQL:
 Realiza pruebas automatizadas para detectar vulnerabilidades de inyección SQL en la URL especificada, utilizando varias cargas útiles para evaluar la seguridad de la base de datos.
 
-Detección de Inyección de Comandos:
+* Detección de Inyección de Comandos:
 Prueba la resistencia de la aplicación a ataques de inyección de comandos, utilizando diversas cargas útiles para intentar ejecutar comandos en el servidor.
 
-Búsqueda de Subdominios: 
+* Búsqueda de Subdominios: 
 Identifica subdominios asociados al dominio objetivo, ampliando el alcance de la evaluación y facilitando la detección de posibles puntos de entrada adicionales.
 
-Exploración de la Wayback Machine: 
+* Exploración de la Wayback Machine: 
 Busca versiones anteriores del sitio web para identificar información sensible que podría haber sido expuesta en el pasado.
 
-Validación de URLs: 
+* Validación de URLs: 
 Comprueba la validez de las URLs proporcionadas para asegurar que son accesibles.
 
-Detección de Vulnerabilidades de Autenticación: 
+* Detección de Vulnerabilidades de Autenticación: 
 Analiza respuestas de autenticación para identificar posibles debilidades en los mecanismos de login.
 
-Pruebas de Cross-Site Scripting (XSS): 
+* Pruebas de Cross-Site Scripting (XSS): 
 Evalúa la susceptibilidad a ataques XSS a través de la inyección de cargas útiles específicas en las entradas de URL.
 
-Recolección de Información: 
+* Recolección de Información: 
 Extrae información útil del encabezado de respuesta, como el servidor y la tecnología utilizada, que puede ayudar a identificar vulnerabilidades específicas.
 
-Detección de CORS (Cross-Origin Resource Sharing): 
+* Detección de CORS (Cross-Origin Resource Sharing): 
 Comprueba la configuración de CORS para identificar configuraciones inseguras que podrían permitir solicitudes no autorizadas.

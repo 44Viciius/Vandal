@@ -20,8 +20,9 @@ Opciones
 
 * Escaneo de Puertos: 
   Identifica puertos abiertos en el dominio objetivo utilizando Nmap, lo que puede revelar servicios expuestos.
+
 *Comprobación de Encabezados de Seguridad: 
-  Verifica la presencia de encabezados de seguridad esenciales, tales como:
+Verifica la presencia de encabezados de seguridad esenciales, tales como:
 * X-Frame-Options
 * Content-Security-Policy
 * X-XSS-Protection

@@ -9,9 +9,9 @@ Requisitos
 * Herramienta nmap
 
 Instalación 
-Git clone https://github.com/44Viciius/Vandal.git
-Cd vandal
-Python3 vandal.py [url]
+* Git clone https://github.com/44Viciius/Vandal.git
+* Cd vandal
+* Python3 vandal.py [url]
 
 Opciones
 * -h, --help: Muestra la ayuda y las opciones disponibles.
